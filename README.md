@@ -2,5 +2,5 @@ git clone --bare https://github.com/juunsuke/winconfig.git C:/Users/Juun/winconf
 
 git --git-dir=C:/Users/Juun/winconfig/ --work-tree=C:/Users/Juun checkout
 
-Set-ExectuionPolicy RemoteSigned
+Set-ExecutionPolicy RemoteSigned
 
