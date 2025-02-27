@@ -1,5 +1,5 @@
-require("juun.remap")
 require("juun.packer")
+require("juun.remap")
 
 vim.cmd.colorscheme "onedark"
 
